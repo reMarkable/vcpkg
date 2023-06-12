@@ -221,4 +221,11 @@
         <sha512>90d0612bbe5467b6cf385c91a68b8daad0057e3e0ccacea44567f5b95b14f7481cb79784185ab1463b4bd990e092ff0f9109576d1a1934b84e1c816582929611</sha512>
         <archiveName>node-v16.15.1-darwin-x64.tar.gz</archiveName>
     </tool>
+    <tool name="gcloud" os="linux">
+        <version>427.0.0</version>
+        <exeRelativePath>google-cloud-sdk/bin/gcloud</exeRelativePath>
+        <url>https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-427.0.0-linux-x86_64.tar.gz</url>
+        <sha512>e196ea7ba02350d079cd0bcf247036de5b12c7f941cc824bdf6406c312641db01ac22f7c3cc52e193f0495bcb236e133c384f4b58c1cc4f0130dfd922396138c</sha512>
+        <archiveName>google-cloud-cli-427.0.0-linux-x86_64.tar.gz</archiveName>
+    </tool>
 </tools>
