@@ -1930,7 +1930,7 @@
     },
     "crc32c": {
       "baseline": "1.1.2",
-      "port-version": 1
+      "port-version": 2
     },
     "crfsuite": {
       "baseline": "2020-08-27",
@@ -2334,7 +2334,7 @@
     },
     "ecm": {
       "baseline": "5.98.0",
-      "port-version": 0
+      "port-version": 1
     },
     "ecos": {
       "baseline": "2.0.10",
@@ -5634,7 +5634,7 @@
     },
     "ms-gsl": {
       "baseline": "4.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "ms-quic": {
       "baseline": "1.2.0",
@@ -8594,7 +8594,7 @@
     },
     "usrsctp": {
       "baseline": "0.9.5.0",
-      "port-version": 1
+      "port-version": 2
     },
     "utf8h": {
       "baseline": "2021-11-18",
